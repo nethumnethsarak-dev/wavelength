@@ -1,13 +1,23 @@
-[
-  {
-    "id": "s_1772898593830_hilxe8o96b8",
-    "title": "One Direction - A.M. (Audio)",
-    "artist": "Unknown Artist",
-    "album": "Single",
-    "emoji": "🎵",
-    "cover": null,
-    "audio_url": "https://archive.org/download/wavelength-unknown-artist-one-direction-a-m-audio-1772898569727/One%20Direction%20-%20A.M.%20(Audio).mp3",
-    "duration": "3:30",
-    "liked": false
-  }
-]
+{
+  "songs": [
+    {
+      "id": "s_1772898593830_hilxe8o96b8",
+      "title": "One Direction - A.M. (Audio)",
+      "artist": "Unknown Artist",
+      "album": "Single",
+      "emoji": "🎵",
+      "cover": null,
+      "audio_url": "https://archive.org/download/wavelength-unknown-artist-one-direction-a-m-audio-1772898569727/One%20Direction%20-%20A.M.%20(Audio).mp3",
+      "duration": "3:30",
+      "liked": false
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl_1772899247600",
+      "name": "One Direction Songs",
+      "emoji": "🎵",
+      "songIds": []
+    }
+  ]
+}
